@@ -3,5 +3,6 @@ package controller;
 public class MainController {
     public static void main(String[] args) {
         System.out.println("Dinh Phuong Nam!");
+        System.out.println("Hồ Ngọc Hiếu");
     }
 }
